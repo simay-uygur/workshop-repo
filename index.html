@@ -1,0 +1,26 @@
+<html>
+
+<head>
+    <title>Learning AWS</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        .titlebar {
+            background-color: #6298e0;
+            text-align: center;
+            padding: 5px;
+            color: white;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+    </style>
+</head>
+
+<body>
+    <div class="titlebar">
+        <h1>Learning DevOps in</h1> <img src="AWS_logo.png" /><br />
+	<h1><strong>Executing v1 on AWS Fargate</strong></h1>
+
+    </div>
+</body>
+
+</html>
